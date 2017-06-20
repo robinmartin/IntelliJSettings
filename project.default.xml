@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings" phpInterpreterId="73bb4f72-305d-4a71-a721-6db42a3bb593">
+        <pharPath>/usr/local/bin/composer</pharPath>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.0.7">
+        <include_path>
+          <path value="/usr/local/bin/php" />
+        </include_path>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="configurable.group.appearance" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="last_opened_file_path" value="/usr/local/php5/bin" />
+        <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.phpunit" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

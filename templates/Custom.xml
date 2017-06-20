@@ -1,0 +1,16 @@
+<templateSet group="Custom">
+  <template name="intext" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$name$&quot;&gt;$name$&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;$name$&quot; placeholder=&quot;$name$&quot;&gt;&#10;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="innum" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$name$&quot;&gt;$name$&lt;/label&gt;&#10;    &lt;input type=&quot;number&quot; class=&quot;form-control&quot; name=&quot;$name$&quot; placeholder=&quot;$name$&quot;&gt;&#10;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
