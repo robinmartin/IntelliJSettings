@@ -22,7 +22,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="@test" value="/** @test */&#10;public function $NAME$()&#10;{&#10;    //Test Code$END$&#10;}" description="New Test Method" toReformat="false" toShortenFQNames="true">
+  <template name="@test" value="/** @test */&#10;function $NAME$()&#10;{&#10;    //Test Code$END$&#10;}" description="New Test Method" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="the_one_where" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
