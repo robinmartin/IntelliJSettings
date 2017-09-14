@@ -1,5 +1,5 @@
 <templateSet group="Robin">
-  <template name="phpunit" value="use Illuminate\Foundation\Testing\WithoutMiddleware;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;use Illuminate\Foundation\Testing\DatabaseTransactions;&#10;&#10;class $CLASS_NAME$ extends TestCase&#10;{&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="phpunit" value="use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;&#10;class $CLASS_NAME$ extends TestCase&#10;{&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP" value="true" />
