@@ -33,4 +33,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="react" value="import React, { Component } from 'react';&#10;&#10;class $NAME$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;&#10;        $END$&#10;      &lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;export default $NAME$;&#10;" description="Create a new react component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
