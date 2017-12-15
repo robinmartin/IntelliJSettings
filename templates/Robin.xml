@@ -40,4 +40,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="vdd" value="var_dump($END$);&#10;die();" description="Var_dump and then die" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
