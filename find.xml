@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.volt" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sty</mask>
@@ -26,7 +23,6 @@
       <mask>*..php</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.stu</mask>
       <mask>*.stub</mask>
@@ -35,6 +31,10 @@
       <mask>*.vo</mask>
       <mask>*.vol</mask>
       <mask>*.volt</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
