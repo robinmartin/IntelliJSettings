@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -21,8 +21,6 @@
       <mask>*.bladephp</mask>
       <mask>*.blade.php</mask>
       <mask>*..php</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.st</mask>
       <mask>*.stu</mask>
       <mask>*.stub</mask>
@@ -35,6 +33,8 @@
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
