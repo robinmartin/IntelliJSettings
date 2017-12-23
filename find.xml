@@ -5,32 +5,35 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.style</mask>
       <mask>*.styl</mask>
       <mask>*.js*</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
-      <mask>*.php</mask>
       <mask>*.bphp</mask>
       <mask>*.blaphp</mask>
       <mask>*.bladphp</mask>
       <mask>*.bladephp</mask>
       <mask>*.blade.php</mask>
       <mask>*..php</mask>
+      <mask>*.st</mask>
+      <mask>*.stu</mask>
+      <mask>*.stub</mask>
+      <mask>*.php</mask>
+      <mask>*.v</mask>
+      <mask>*.vo</mask>
+      <mask>*.vol</mask>
+      <mask>*.volt</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
+      <mask>*.</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
