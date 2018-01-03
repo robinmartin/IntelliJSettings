@@ -11,8 +11,10 @@
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="circle" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="volt" type="Twig" />
+      <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
