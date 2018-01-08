@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="stub" type="PHP" />
+      <mapping pattern="a9712c7d0b98d02177542cc5c25b7173" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="circle" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
