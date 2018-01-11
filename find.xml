@@ -7,15 +7,10 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sty</mask>
       <mask>*.style</mask>
       <mask>*.styl</mask>
       <mask>*.js*</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jsx</mask>
       <mask>*.bphp</mask>
       <mask>*.blaphp</mask>
@@ -35,6 +30,11 @@
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
     </recentFileMasks>
